@@ -3,7 +3,7 @@ body {
     background-color: black;
 }
 
-section {
+.chamada {
     background: rgba(221, 101, 21, 0.897);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -25,7 +25,7 @@ overflow-x: auto;
 gap: 10px;
 }
 
-section{
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
 }
